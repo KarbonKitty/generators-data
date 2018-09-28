@@ -1,0 +1,133 @@
+{
+    "bodyBuild": {
+      "thin": 1,
+      "slim": 1,
+      "normal": 3,
+      "stocky": 2,
+      "fat": 2,
+      "very fat": 1
+    },
+    "hairColor": {
+      "red": 1,
+      "blonde": 1,
+      "dark blonde": 1,
+      "light brown": 1,
+      "brown": 2,
+      "dark brown": 1,
+      "black": 2
+    },
+    "eyeColor": {
+      "red": {
+        "blue": 1,
+        "gray": 4,
+        "green": 3,
+        "brown": 1,
+        "multi-color": 1
+      },
+      "blonde": {
+        "blue": 3,
+        "green": 2,
+        "gray": 4,
+        "brown": 1,
+        "multi-color": 1
+      },
+      "dark blonde": {
+        "blue": 2,
+        "green": 2,
+        "gray": 2,
+        "brown": 2,
+        "black": 1,
+        "multi-color": 1
+      },
+      "light brown": {
+        "blue": 1,
+        "green": 1,
+        "gray": 2,
+        "brown": 3,
+        "black": 2,
+        "multi-color": 1
+      },
+      "brown": {
+        "blue": 1,
+        "green": 1,
+        "gray": 1,
+        "brown": 4,
+        "black": 2,
+        "multi-color": 1
+      },
+      "dark brown": {
+        "green": 1,
+        "gray": 1,
+        "brown": 4,
+        "black": 3,
+        "multi-color": 1
+      },
+      "black": {
+        "green": 1,
+        "gray": 1,
+        "brown": 3,
+        "black": 4,
+        "multi-color": 1
+      }
+    },
+    "clothes": {
+      "male": {
+        "full suit": 1,
+        "business casual": 1,
+        "jeans and a T-shirt": 1,
+        "jeans and a shirt": 1,
+        "jeans and a pullover": 1,
+        "leather jacket": 1,
+        "skinny jeans and T-shirt": 1,
+        "colorful hippie": 1,
+        "Miami Vice": 1,
+        "cargo pants and camos": 1
+      },
+      "female": {
+        "elegance": 1,
+        "hooker's style": 1,
+        "cargo pants and camos": 1,
+        "girly dresses": 1,
+        "jeans and a T-shirt": 1,
+        "jeans and a shirt": 1,
+        "colorful hippie": 1,
+        "library lady": 1,
+        "business casual": 1,
+        "boyfriend's clothes": 1
+      }
+    },
+    "special": {
+      "tatoos": 1,
+      "mirrorshades": 1,
+      "scarification": 1,
+      "nose ring": 1,
+      "earrings": 1,
+      "long fingernails": 1,
+      "strange shoes": 1,
+      "glasses": 1,
+      "weird contact lenses": 1,
+      "fingerless gloves": 1,
+      "spiked gloves": 1,
+      "spiked bracelets": 1,
+      "expensive bracelets": 1,
+      "ostensible necklaces": 1,
+      "hair beads": 1,
+      "knee or elbow pads": 1,
+      "motorcycle gloves": 1,
+      "freckles": 1,
+      "tan": 1,
+      "military emblems on clothing": 1
+    },
+    "hairStyle": {
+      "bald": 1,
+      "braids": 1,
+      "dreadlocks": 1,
+      "mohawk": 1,
+      "army short": 1,
+      "long": 1,
+      "medium": 1,
+      "ponytail": 1,
+      "short": 1,
+      "cornrows": 1
+    }
+  }
